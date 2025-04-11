@@ -1,1 +1,1 @@
-Web Scraping - Extracting and visualising dtock data
+Web Scraping - Extracting and visualising stock data
